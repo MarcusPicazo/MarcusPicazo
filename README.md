@@ -110,7 +110,9 @@ Problem Solving · Teamwork · Communication · Training & Mentoring
 🐾 Supporting street animals through rescue, shelter, and adoption initiatives.
 
 ---
-
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlyZWl1b3d3a24wdjI4NWZ2YnNwYWVzNnNkanUzb3VhMXMyNHo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="180" alt="Marcus Escalona Animated Name">
+</p>
 ## 🌐 Connect with Me
 
 <p align="center">
