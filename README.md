@@ -26,10 +26,13 @@
 | :--- | :--- |
 | **English** | 100% (Native, EF SET C2) <br> 
 <progress value="100" max="100"></progress> 
-|
+|[🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦] 100%
 | **Spanish** | 100% (Native) <br> <progress value="100" max="100"></progress> |
+[🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦] 100%
 | **Italian** | Intermediate <br> <progress value="60" max="100"></progress> |
+[🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜] 60%
 | **Catalan** | Intermediate <br> <progress value="60" max="100"></progress> |
+[🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜] 60%
  
  
 
