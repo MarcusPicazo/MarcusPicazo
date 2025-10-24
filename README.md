@@ -113,8 +113,8 @@ Problem Solving · Teamwork · Communication · Training & Mentoring
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlyZWl1b3d3a24wdjI4NWZ2YnNwYWVzNnNkanUzb3VhMXMyNHo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="180" alt="Marcus Escalona Animated Name">
 </p>
-## 🌐 Connect with Me
 
+##  Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/marco-escalona-a23849290/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
