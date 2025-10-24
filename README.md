@@ -24,7 +24,9 @@
 
 | Language | Level |
 | :--- | :--- |
-| **English** | 100% (Native, EF SET C2) <br> <progress value="100" max="100"></progress> |
+| **English** | 100% (Native, EF SET C2) <br> 
+<progress value="100" max="100"></progress> 
+|
 | **Spanish** | 100% (Native) <br> <progress value="100" max="100"></progress> |
 | **Italian** | Intermediate <br> <progress value="60" max="100"></progress> |
 | **Catalan** | Intermediate <br> <progress value="60" max="100"></progress> |
