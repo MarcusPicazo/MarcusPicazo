@@ -42,28 +42,40 @@
 
 ## Work Experience
 
-### **Lead Product Engineer & Creative Technologist** **EBVG | Oct 2023 - Present | Mexico City** - Architected and deployed interactive EdTech platforms handling 200+ concurrent weekly users.
+### **Lead Product Engineer & Creative Technologist**
+**EBVG | Oct 2023 - Present | Mexico City**
+- Architected and deployed interactive EdTech platforms handling 200+ concurrent weekly users.
 - Engineered real-time multiplayer ecosystems using React, WebGL, and Firebase (Firestore onSnapshot) for sub-50ms state synchronization.
 - Designed "CIT SYNC", a scalable internal management dashboard to orchestrate institutional tech resources.
 - Mentored a development team through the "Fábrica de Apps" initiative, establishing modern CI/CD workflows and rigorous code quality standards.
 
-### **Systems Engineer** **Getting Out | Jan 2022 - Jan 2023** - Designed and integrated REST APIs utilizing Python, establishing efficient data pipelines and scalable system architecture.  
-- Optimized SQL databases and structured data handling processes, significantly reducing data retrieval latency.  
+### **Systems Engineer**
+**Getting Out | Jan 2022 - Jan 2023 | Mexico City**
+- Designed and integrated REST APIs utilizing Python, establishing efficient data pipelines and scalable system architecture.
+- Optimized SQL databases and structured data handling processes, significantly reducing data retrieval latency.
 
-### **IT Systems Engineer** **Cedros College | Jan 2021 - Jan 2022** - Managed and optimized institutional digital infrastructure, ensuring secure and efficient operations across internal systems.  
-- Spearheaded the integration of advanced cybersecurity measures to protect sensitive databases and institutional data.  
+### **IT Systems Engineer**
+**Cedros College | Jan 2021 - Jan 2022 | Mexico City**
+- Managed and optimized institutional digital infrastructure, ensuring secure and efficient operations across internal systems.
+- Spearheaded the integration of advanced cybersecurity measures to protect sensitive databases and institutional data.
 
-### **Software Engineer** **Conaculta - National Council for Culture and Arts | Aug 2016 - Dec 2017** - Engineered highly customized software solutions and scalable data architecture for institutional digital platforms.  
+### **Software Engineer**
+**Conaculta - National Council for Culture and Arts | Aug 2016 - Dec 2017 | Mexico City**
+- Engineered highly customized software solutions and scalable data architecture for institutional digital platforms.
 - Conducted rigorous testing, debugging, and code optimization to ensure robust functionality and data integrity.
 
-### **Digital Audio Engineer & Technical Producer** **Black Fox Productions | Apr 2020 - Present** - Specialized in digital signal processing and high-fidelity audio engineering within remote, distributed digital workflows.  
+### **Digital Audio Engineer & Technical Producer**
+**Black Fox Productions | Apr 2020 - Present | Remote**
+- Specialized in digital signal processing and high-fidelity audio engineering within remote, distributed digital workflows.
 - Applied advanced knowledge of technical acoustics and frequency modulation—skills that directly translate into my current audio-reactive WebGL development.
 
 ---
 
 ## Education
 
-**UEM** – *B.S. in Computer Systems Engineering (Completed)* **UAM** – *B.S. in Physics (In Progress - Focusing on kinematics, wave physics, and advanced mathematics for 3D engine development)* **Universidad Panamericana** – *B.A. in Music and Innovation (Completed)* ```
+- **UEM** – *B.S. in Computer Systems Engineering (Completed)*
+- **UAM** – *B.S. in Physics (In Progress - Focusing on kinematics, wave physics, and advanced mathematics for 3D engine development)*
+- **Universidad Panamericana** – *B.A. in Music and Innovation (Completed)*
 
 ***
 
