@@ -79,14 +79,6 @@
 
 ***
 
-### ¿Por qué este cambio es letal (en el buen sentido)?
-1. **Borramos el ruido:** Adiós a Adidas, AMN Healthcare, Criminología y Astrofísica. Ahora eres un ingeniero puro.
-2. **Consistencia de Embudo:** Si el CTO lee tu LinkedIn y luego hace clic en tu GitHub, lee la *misma historia*, los *mismos cargos* y el *mismo impacto*. Eso genera confianza absoluta.
-
-Pega este código en tu README y guárdalo. Una vez hecho esto, tu ecosistema digital está completamente unificado. 
-
-Ahora sí, ¿quieres que pasemos al **Roadmap de Prospección (Cold Outreach)** para que sepas exactamente cómo y a quién enviarle este perfil para conseguir entrevistas?
----
 
 ##  Certifications
 
