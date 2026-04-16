@@ -18,14 +18,17 @@
 ---
 
 
-
 | Language | Level |
 | :--- | :--- |
-| **English** | 100% (Native, EF SET C2) <br> <progress value="100" max="100"></progress> |[🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦] 100%
-| **Spanish** | 100% (Native) <br> <progress value="100" max="100"></progress> |[🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦] 100%
-| **Italian** | Intermediate <br> <progress value="60" max="100"></progress> |[🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜] 60%
-| **Catalan** | Intermediate <br> <progress value="60" max="100"></progress> |[🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜] 60%
- 
+| **English** | 100% (Native, EF SET C2) <br> 
+<progress value="100" max="100"></progress> 
+|[🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦] 100%
+| **Spanish** | 100% (Native) <br> <progress value="100" max="100"></progress> |
+[🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦] 100%
+| **Italian** | Intermediate <br> <progress value="60" max="100"></progress> |
+[🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜] 60%
+| **Catalan** | Intermediate <br> <progress value="60" max="100"></progress> |
+[🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜] 60%
  
 
 *Bilingual educator delivering lessons in British English.*
@@ -126,16 +129,19 @@ Problem Solving · Teamwork · Communication · Training & Mentoring
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlyZWl1b3d3a24wdjI4NWZ2YnNwYWVzNnNkanUzb3VhMXMyNHo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="180" alt="Marcus Escalona Animated Name">
 </p>
 
-##  Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/marco-escalona-a23849290/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://marcusescalona.art" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" alt="Portfolio">
-  </a>
-</p>
+<a href="https://marcusescalona.art" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" alt="Portfolio">
+</a>
 
 ---
 
- *Thanks for visiting my profile! Feel free to collaborate, fork, or connect!* marcuspicazo@outlook.com
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to collaborate, fork, or connect!</i><br><br>
+  📧 <a href="mailto:marcuspicazo@outlook.com">marcuspicazo@outlook.com</a><br>
+  🌐 <a href="https://marcusescalona.art" target="_blank"><b>marcusescalona.art</b></a>
+</p>
