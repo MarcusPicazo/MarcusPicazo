@@ -131,7 +131,7 @@ Problem Solving · Teamwork · Communication · Training & Mentoring
 
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcus-escalona-a23849290/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcus-escalona/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://marcusescalona.art" target="_blank">
