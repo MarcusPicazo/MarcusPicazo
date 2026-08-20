@@ -60,7 +60,7 @@
 - Conducted rigorous testing, debugging, and code optimization to ensure robust functionality and data integrity.
 
 ### **Digital Audio Engineer & Technical Producer**
-**Black Fox Productions | Apr 2020 - Present | Remote**
+**Black Fox Productions | Apr 2019 - 2025 | Remote**
 - Specialized in digital signal processing and high-fidelity audio engineering within remote, distributed digital workflows.
 - Applied advanced knowledge of technical acoustics and frequency modulation—skills that directly translate into my current audio-reactive WebGL development.
 
